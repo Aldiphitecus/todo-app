@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(198, 195, 195);
+}
+
+header {
+    background-color: #0B192C;
+}
+
+.judul {
+    color: #FF6500;
+}
+
+.card {
+    background-color: #1E3E62;
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
